@@ -2,7 +2,7 @@ import { useState } from "react";
 import { Link } from "react-scroll";
 import { BiMenu } from "react-icons/bi";
 import { TiDeleteOutline } from "react-icons/ti";
-import b4fImg from "../assets/b4f.png";
+
 import skImg from "../assets/sk.png";
 
 const Navbar = () => {
